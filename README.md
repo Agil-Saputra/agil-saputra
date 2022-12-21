@@ -24,4 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agil-saputra&show_icons=true&locale=en&layout=compact" alt="agil-saputra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agil-saputra&show_icons=true&locale=en" alt="agil-saputra" /></p>
-<img src="https://i.ibb.co/hXdSKwN/7SvE.gif" alt="7SvE" border="0">
+<a href="https://gifyu.com/image/Sk0D5"><img src="https://s3.gifyu.com/images/7SvE.gif" alt="7SvE.gif" border="0" /></a>
