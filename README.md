@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **React,Typescript,Sass/Scss,**
 
-- 👯 I’m looking to collaborate on **my next project**
+- 🤜🏻🤛 I’m looking to collaborate on **my next project**
 
 - 💬 Ask me about **HTML&CSS**
-
-- 💌reach me on **ragelyusuf752@gmail.com**
 
 - ⚡ Fun fact **i'am sadboy (just loving not loved)**
 
