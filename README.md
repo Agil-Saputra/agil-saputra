@@ -9,7 +9,7 @@
 
 - 💌reach me on **ragelyusuf752@gmail.com**
 
-- ⚡ Fun fact **i'am sadboy (just love not loved)**
+- ⚡ Fun fact **i'am sadboy (just loving not loved)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
