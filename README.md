@@ -24,4 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agil-saputra&show_icons=true&locale=en&layout=compact" alt="agil-saputra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agil-saputra&show_icons=true&locale=en" alt="agil-saputra" /></p>
-<img src="https://i.ibb.co/3R3zrVn/Component-Keyboard-Copy-2-1440x816.png" alt="Component-Keyboard-Copy-2-1440x816" border="0">
+<img src="https://gifer.com/embed/7SvE" width=480 height=344.471 frameBorder="0" allowFullScreen/>
