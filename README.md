@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm agil</h1>
-<h3 align="center">I'am a frontend developer, students, and hardworker</h3>
+<h3 align="center">I'am a frontend developer, student, and hardworker</h3>
 
 - 🌱 I’m currently learning **React,Typescript,Sass/Scss,**
 
