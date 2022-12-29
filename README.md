@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React,Typescript,Sass/Scss,**
 
-- 🤜🏻🤛 I’m looking to collaborate on **my next project**
+- 🤜🏻🤛 I’m looking to collaborate on **MY SHORT LINK GENERATOR PROJECT**
 
 - 💬 Ask me about **HTML&CSS**
 
