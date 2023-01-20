@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML&CSS**
 
-- ⚡ Fun fact **i'am sadboy (just loving not loved)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
