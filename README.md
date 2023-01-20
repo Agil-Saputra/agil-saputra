@@ -1,4 +1,4 @@
-<a href="https://ibb.co/rxmg97N"><img src="https://i.ibb.co/gS3GYjh/Group-36.png" alt="Group-36" border="0" width="100%"></a>
+<img width="1584" alt="Frame 1" src="https://user-images.githubusercontent.com/88566690/213769404-f12a8f42-b4a3-4d01-81b3-47a7136c2262.png">
 <h1 align="center">Hi 👋, I'm agil</h1>
 <h3 align="center">I'am a frontend developer, student, and hardworker</h3>
 
