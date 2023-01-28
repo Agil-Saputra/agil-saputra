@@ -1,4 +1,4 @@
-<img width="1584" alt="Frame 1" src="https://user-images.githubusercontent.com/88566690/213769404-f12a8f42-b4a3-4d01-81b3-47a7136c2262.png">
+<img width="1584" alt="Frame 1" src="https://user-images.githubusercontent.com/88566690/215264796-a4f6e67d-95b8-426f-958e-82a26896d40c.png">
 <h1 align="center">Hi 👋, I'm agil</h1>
 <h3 align="center">I'am a frontend developer, student, and hardworker</h3>
 
