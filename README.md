@@ -3,7 +3,7 @@
 <h3 align="left">I'am a frontend developer, student, and hardworker</h3>
 <div align="left" width="584">
   
-🌱 I’m currently learning **React,Typescript,Sass/Scss,**
+🌱 I’m currently learning **React,Typescript,NEXTjs,and Tailwind **
   
 🤜🏻🤛 I’m looking to collaborate on **Open Source Projects**
   
