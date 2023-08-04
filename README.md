@@ -1,13 +1,13 @@
 <img width="1584" alt="Frame 1" src="https://user-images.githubusercontent.com/88566690/215264796-a4f6e67d-95b8-426f-958e-82a26896d40c.png">
-<h1 align="left">Hi 👋, I'm agil</h1>
-<h3 align="left">I'am a frontend developer, student, and hardworker</h3>
-<div align="left" width="584">
+<h1 align="center">Hi 👋, I'm Agil</h1>
+<h3 align="center">I'am a Frontend Developer, Student, and Hardworker</h3>
+<div align="center" width="584">
   
 🌱 I’m currently learning **React,Typescript,NEXTjs,and Tailwind **
   
 🤜🏻🤛 I’m looking to collaborate on **Open Source Projects**
   
-💬 Ask me about **HTML&CSS**
+💬 Ask me about **HTML&CSS&JAVASCRIPT**
   
 </div>
 
